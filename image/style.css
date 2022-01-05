@@ -1,0 +1,10 @@
+.parent{
+    display: flex;
+    width: 100%;
+    padding: 2%;
+    margin: 2%;
+}
+.parent>.card{
+    width: 20%;
+    
+}
